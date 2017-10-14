@@ -1,2 +1,1 @@
-# hello-world
-my first github experiment.
+I am, as of late, OBSESSED with everything 3D Printing! I've been interested for about 6 years now but my "day-job" keeps me pretty busy. I've only been building printers for about a year. My goal is to build some cutting edge, large build volume printers which are user friendly.
